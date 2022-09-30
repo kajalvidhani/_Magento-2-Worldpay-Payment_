@@ -1,4 +1,3 @@
-# _Magento-2-Worldpay-Payment_
 Integrate WorldPay payment gateway to capture online payments securely in your Magento 2 store with Meetanshi's Magento 2 Worldpay Payment extension.  
 
 E-commerce business is under constant threat of security issues due to online payments. If proper measures are not taken, it leads to a loss of business. Online attacks and hacks are a major concern of the Magento 2 store owners. Compromising with security in an online store is not an option at all!  
